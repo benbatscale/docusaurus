@@ -10,8 +10,5 @@
   },
   "devDependencies": {
     "docusaurus": "^1.0.15"
-  },
-  "dependencies": {
-    "nodemon": "^1.17.4"
   }
 }
