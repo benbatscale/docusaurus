@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": { "postinstall": "cd website && npm install" }
+  },
+  "devDependencies": {
+    "docusaurus": "^1.0.15"
+  }
+}
