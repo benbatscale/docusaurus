@@ -1,12 +1,4 @@
-/**
- * Copyright (c) 2017-present, Facebook, Inc.
- *
- * This source code is licensed under the MIT license found in the
- * LICENSE file in the root directory of this source tree.
- */
-
-// See https://docusaurus.io/docs/site-config.html for all the possible
-// site configuration options.
+// See https://docusaurus.io/docs/site-config.html for all the possible site configuration options. 
 
 /* List of projects/orgs using your project for the users page */
 const users = [
@@ -23,7 +15,7 @@ const users = [
 const siteConfig = {
   title: 'Documentation' /* title for your website */,
   tagline: 'Scale API',
-  url: 'https://benbatscaleapi.herokuapp.com' /* your website url */,
+  url: 'https://http://scale-api-docs.netlify.com/' /* your website url */,
   baseUrl: '/' /* base url for your project */,
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
@@ -38,9 +30,7 @@ const siteConfig = {
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Docs'},
-    {doc: 'sql', label: 'SQL'},
-    // {doc: 'doc4', label: 'API'},
+    {doc: 'sql', label: 'Docs'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
   ],

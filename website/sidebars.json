@@ -1,6 +1,7 @@
 {
   "docs": {
-    "SQL" : ["sql"]
+    "Basics" : ["sql"],
+    "Scale API" : ["lidar", "athena"]
   },
   "docs-other": {
     "First Category": []

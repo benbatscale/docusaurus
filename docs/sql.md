@@ -1,6 +1,6 @@
 ---
 id    : sql
-title : MySQL Documentation
+title : MySQL
 ---
 
 ## General Knowledge
