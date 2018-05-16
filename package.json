@@ -1,8 +1,12 @@
 {
-  "scripts": {
-    "start": { "postinstall": "cd website && npm install" }
+  "engines": {
+    "node": "^10.1",
+    "npm": "^5.6.0"
   },
-  "devDependencies": {
-    "docusaurus": "^1.0.15"
+  "scripts": {
+    "test": "echo hello",
+    "start": {
+      "postinstall": "cd website && npm install"
+    }
   }
 }
