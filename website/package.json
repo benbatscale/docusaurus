@@ -6,8 +6,7 @@
     "publish-gh-pages": "docusaurus-publish",
     "write-translations": "docusaurus-write-translations",
     "version": "docusaurus-version",
-    "rename-version": "docusaurus-rename-version",
-    "install": "npm build; npm start"
+    "rename-version": "docusaurus-rename-version"
   },
   "devDependencies": {
     "docusaurus": "^1.0.15"
