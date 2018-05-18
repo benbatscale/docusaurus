@@ -37,8 +37,12 @@ title : LiDAR Best Practices
     a. *Use Overhead View.*  
     b. *Confirm that cuboid is aligned properly and facing in the direction it is moving.*  
 
+-- Written by *Sophie Humphrey* --
+
 ## Quick Method for No Label Zone
 1. *Delete No Label Zone.* 
 2. *Draw a new box but DO NOT MARK stationary.*  
 3. *Edit as necessary.*  
 4. *When editing is finished, MARK stationary.*  
+
+-- Written by *Yulin Kuo* --
