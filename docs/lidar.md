@@ -3,6 +3,10 @@ id    : lidar
 title : LiDAR Best Practices
 ---
 
+## Missing Objects
+1. Go into Top Down View and scan all streets, making sure that all streets are checked with APC and GROUND maxed.
+2. Go through every single camera view and check whether or not there is something missing.
+
 ## Dynamic Tracks (Moving Objects)
 1. Find the **Best Frame** where object is **clearest** and **densest**.   
     a. *Activate GROUND.*  
